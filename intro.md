@@ -1,15 +1,24 @@
 # meeterwebdev-intern
-Intern todo
 
-ALWAYS USE THE TERMINAL FOR ANY GIT/SYS-ADMIN TASK. 
-Keep a running log of questions for Dimitre/Steven.
+This internship will cover primarily front-end web development, give you an overview on what a full bredth tech stack encompasses and looks like, as well as give you an accelerated path to becoming a better engineer :blush: 
+
+__Gina to do before starting__:
+- [ ] Create a Github account
+- [ ] Create a `.md` file for a running Q/A log for Dimitre/Steven.
+- [ ] Create a toggl account to track time: https://toggl.com/
+- [ ] Sign NDA and return to Steven
+- [ ] Set up a time to meet once a week with Dimitre for [1-2] hours { Sun/Mon }:
+   - Debrief on next task
+   - Answer related questions
+- [ ] Once a week team meeting with Dimitre/Steven { Thurs?.. }
 
 
-Steven to provide Gina access to: 
+__Steven to provide Gina access to__: 
 - [ ] Github `meeterwebdev-intern` repo
 - [ ] Slack
-- ... 
+- [ ] NDA
 
+-------------
 
 ## Task 0 - 6/27
 These tasks will serve to get your feet wet
