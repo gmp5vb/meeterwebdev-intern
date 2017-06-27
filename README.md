@@ -1,2 +1,0 @@
-# meeterwebdev-intern
-Intern todo
