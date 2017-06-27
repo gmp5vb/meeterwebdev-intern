@@ -14,7 +14,7 @@ Steven to provide Gina access to:
 ## Task 0
 These tasks will serve to get your feet wet
 - [ ] __Github__
-  * learn/memorize/practice these commands:
+  * learn/memorize/practice these commands:
     - `git push`
     - `git pull`
     - `git add`
