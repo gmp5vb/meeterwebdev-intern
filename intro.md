@@ -11,7 +11,7 @@ Steven to provide Gina access to:
 - ... 
 
 
-## Task 0
+## Task 0 - 6/27
 These tasks will serve to get your feet wet
 - [ ] __Github__
   * learn/memorize/practice these commands:
