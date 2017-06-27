@@ -7,10 +7,10 @@ __Gina to do before starting__:
 - [ ] Create a `.md` file for a running Q/A log for Dimitre/Steven.
 - [ ] Create a toggl account to track time: https://toggl.com/
 - [ ] Sign NDA and return to Steven
-- [ ] Set up a time to meet once a week with Dimitre for [1-2] hours { Sun/Mon }:
+- [x] Set up a time to meet once a week with Dimitre for [1-2] hours { Sun/Mon }:
    - Debrief on next task
    - Answer related questions
-- [ ] Once a week team meeting with Dimitre/Steven { Thurs?.. }
+- [x] Once a week team meeting with Dimitre/Steven { Thurs?.. }
 
 
 __Steven to provide Gina access to__: 
