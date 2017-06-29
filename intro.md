@@ -3,9 +3,9 @@
 This internship will cover primarily front-end web development, give you an overview on what a full bredth tech stack encompasses and looks like, as well as give you an accelerated path to becoming a better engineer :blush: 
 
 __Gina to do before starting__:
-- [ ] Create a Github account
+- [x] Create a Github account
 - [ ] Create a `.md` file for a running Q/A log for Dimitre/Steven.
-- [ ] Create a toggl account to track time: https://toggl.com/
+- [x] Create a toggl account to track time: https://toggl.com/
 - [ ] Sign NDA and return to Steven
 - [x] Set up a time to meet once a week with Dimitre for [1-2] hours { Sun/Mon }:
    - Debrief on next task
