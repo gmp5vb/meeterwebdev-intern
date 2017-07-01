@@ -14,9 +14,9 @@ __Gina to do before starting__:
 
 
 __Steven to provide Gina access to__: 
-- [ ] Github `meeterwebdev-intern` repo
-- [ ] Slack
-- [ ] NDA
+- [x] Github `meeterwebdev-intern` repo
+- [x] Slack
+- [x] NDA
 
 -------------
 
