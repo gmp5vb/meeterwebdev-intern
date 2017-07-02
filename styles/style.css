@@ -1,0 +1,24 @@
+p, li{
+	/*color:red;*/
+	/*border:2px solid blue;*/
+	font-size: 20px;
+	font-family: 'Arimo', sans-serif;
+}
+body{
+	border:3px solid blue;
+}
+h1{
+	font-size: 60px;
+	text-align: center;
+	color: #186BF0;
+	text-shadow: 3px 3px 1px gray;
+	margin: 0;
+}
+html{
+	background-color: #F7CDFD;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+}
