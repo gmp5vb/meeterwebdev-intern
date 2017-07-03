@@ -1,7 +1,7 @@
 # Task 1 - 6/3 
 
 ## Before you do anything
-- Organize this git repository into task by task structure
+- [ ] Organize this git repository into task by task structure
 ```
 Task 0
   | 
@@ -11,6 +11,7 @@ Task 1
   | 
   |____ { all your task 1 docs }
 ```
+- [ ] __START LOGGING YOUR HOURS ON TOGGL__
 
 - [ ] You will create an a 'Universities we're contracted at' section for the MeeteR landing page.
     - [ ] Select 3 - 5 websites for inspiration
