@@ -4,9 +4,9 @@ This internship will cover primarily front-end web development, give you an over
 
 __Gina to do before starting__:
 - [x] Create a Github account
-- [ ] Create a `.md` file for a running Q/A log for Dimitre/Steven.
+- [x] Create a `.md` file for a running Q/A log for Dimitre/Steven.
 - [x] Create a toggl account to track time: https://toggl.com/
-- [ ] Sign NDA and return to Steven
+- [x] Sign NDA and return to Steven
 - [x] Set up a time to meet once a week with Dimitre for [1-2] hours { Sun/Mon }:
    - Debrief on next task
    - Answer related questions
@@ -30,11 +30,11 @@ These tasks will serve to get your feet wet
     - `git commit`
   * Learn what a `pull request` is; how are you going to use it in this internship
 - [ ] __Markdown__: learn basic syntax of markdown to update this and subsequent .md files
-- [ ] __Hello world in JS/HTML/CSS__
+- [x] __Hello world in JS/HTML/CSS__
   * https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
-    - [ ] Intro to HTML
-    - [ ] Intro to CSS
-    - [ ] Intro to JS
+    - [x] Intro to HTML
+    - [x] Intro to CSS
+    - [x] Intro to JS
 
 ## Task 0.5 
 You will create an a 'Universities we're contracted at' section for the MeeteR landing page.
