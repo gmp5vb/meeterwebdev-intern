@@ -15,7 +15,7 @@ Task 1
 
 - [ ] You will create an a 'Universities we're contracted at' section for the MeeteR landing page.
     - [ ] Select 3 - 5 websites for inspiration
-        - [ ] get one approved by Dimitre or Stevent before starting
+        - [ ] get one approved by Dimitre or Steven before starting
     - [ ] Rip out the relevant HTML/CSS/JS from the website
         - [ ] replace with relevant content
         
