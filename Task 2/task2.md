@@ -8,6 +8,6 @@ Right now we're taking one step back, in order to help you take _many_, _many_ s
 
 ## HTMl & CSS Book
 
-- Read chapters 10, 13, 15 and take note
+- [ ] Read chapters 10, 13, 15 and take note
 
 
