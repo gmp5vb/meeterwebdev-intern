@@ -8,7 +8,7 @@
       .clear{  
       clear: left;}   
   may be used to place boxes side by side. 
-* relatie positioning: 
+* relatie positioning:  
   "p.example {  
     position: relative;  
     top: 10px;  
