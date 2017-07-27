@@ -4,10 +4,9 @@
   good for headings/nav bars so that when the user scrolls the bar is still visible
 * floating element: element is out of normal flow and can be positioned to the far left or right
   anything else will flow around the floated element. 
-  - clearing floats: no element in the containing element should touch the left or right hand sides of a box. 
-    *.clear{
-      clear: left;}
-  - 
+  - clearing floats: no element in the containing element should touch the left or right hand sides of a box.  
+      .clear{
+      clear: left;} 
   may be used to place boxes side by side. 
 * relatie positioning: 
   "p.example { 
