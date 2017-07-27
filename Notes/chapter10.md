@@ -1,8 +1,8 @@
 # Chapter 10: Intro to CSS (notes)
 
-* selector { 
-   property: value;}
-* CSs elements can be styled inside the html page by having the <style> element use the type attribute to indicate that the styles are specified in CSS. . 
+* selector {  
+   property: value;}  
+* CSs elements can be styled inside the html page by having the <style> element use the type attribute to indicate that the styles are specified in CSS.
 
 * "*" applies to all elements in the document
 * match element names such as p, h1, h2{}
